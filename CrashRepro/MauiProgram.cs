@@ -2,7 +2,7 @@
 using Microsoft.Extensions.Logging;
 using Microsoft.Maui.LifecycleEvents;
 
-namespace MauiApp1;
+namespace CrashRepro;
 
 public static class MauiProgram
 {

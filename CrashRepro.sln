@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiApp1", "MauiApp1\MauiApp1.csproj", "{DBFE554D-DF3D-4A0B-B6E4-64DD749E837D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrashRepro", "CrashRepro\CrashRepro.csproj", "{DBFE554D-DF3D-4A0B-B6E4-64DD749E837D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

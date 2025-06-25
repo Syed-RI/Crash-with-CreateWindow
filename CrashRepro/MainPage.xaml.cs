@@ -1,4 +1,4 @@
-﻿namespace MauiApp1;
+﻿namespace CrashRepro;
 
 public partial class MainPage : ContentPage
 {
